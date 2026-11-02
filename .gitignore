@@ -1,0 +1,27 @@
+
+# Personal face dataset
+data/
+DL_Dataset/
+prepared_data/
+
+# Face embeddings and identity labels
+model_data/
+*.npy
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets and environment variables
+.env
